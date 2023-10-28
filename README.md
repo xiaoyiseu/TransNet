@@ -27,7 +27,7 @@ pkuseg==0.0.25
 
 ## 3. Performance
 
-### 3.1 Ablation
+### 3.1 Ablation experiment
 ![Level](https://github.com/xiaoyiseu/ED-triage/assets/132346882/90871f31-635a-42cc-bd15-435d111d5dcf)
 ![Department](https://github.com/xiaoyiseu/ED-triage/assets/132346882/e62ebcf0-cb1f-45c3-9ba8-507c3343bbb2)
 
@@ -43,5 +43,7 @@ pkuseg==0.0.25
 ![Department_ROC](https://github.com/xiaoyiseu/ED-triage/assets/132346882/bceee248-047d-4348-adbe-b0302b793ed9)
 ![Level_ROC](https://github.com/xiaoyiseu/ED-triage/assets/132346882/0ffad50a-137f-4cc7-811b-075eaa4de223)
 
+### 3.3 Comparative experiment
 
+![trian valid](https://github.com/xiaoyiseu/ED-triage/assets/132346882/acbcc906-f727-4191-9e5f-1329bde9a7fe)
 
