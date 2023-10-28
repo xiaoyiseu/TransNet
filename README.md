@@ -10,6 +10,7 @@ Code available: https://github.com/xiaoyiseu/ED-triage
 ## 2. Setups
 
 All code was developed and tested on a single machine equiped with a NVIDIA 2080Ti GPU. The environment is as bellow:
+
 numpy==1.18.5
 
 pandas==1.1.5
