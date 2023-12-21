@@ -49,4 +49,6 @@ pkuseg==0.0.25
 
 ### 4. Test
 ![分诊测试图](https://github.com/xiaoyiseu/ED-triage/assets/132346882/837b676d-46f8-4673-bae2-1343047bf3a1)
+![image](https://github.com/xiaoyiseu/ED-triage/assets/132346882/1359e377-28ba-4d54-88ee-9c4e2f1d811a)
+
 
