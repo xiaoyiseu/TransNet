@@ -39,9 +39,9 @@ pkuseg==0.0.25
 
 ![trian valid](https://github.com/xiaoyiseu/ED-triage/assets/132346882/acbcc906-f727-4191-9e5f-1329bde9a7fe)
 
-### 4. Test
-![分诊测试图](https://github.com/xiaoyiseu/ED-triage/assets/132346882/837b676d-46f8-4673-bae2-1343047bf3a1)
-![image](https://github.com/xiaoyiseu/ED-triage/assets/132346882/2702451b-bceb-4b67-a58a-5b1fd5a120e4)
-
+### 4. Test   
+测试效果图  
+![022af2c6861a5802f1a843f724b02ee](https://github.com/xiaoyiseu/ED-triage/assets/132346882/1ade5a15-69c4-408c-bb94-711301059c5f)
+![ab2cd4852bbd7a414747c33ab0dc31d](https://github.com/xiaoyiseu/ED-triage/assets/132346882/c4ecc5de-40ee-468a-a56c-4a9f429480bc)
 
 
