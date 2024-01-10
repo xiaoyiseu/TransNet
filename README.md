@@ -42,6 +42,7 @@ pkuseg==0.0.25
 ### 4. Test   
 测试效果图  
 ![022af2c6861a5802f1a843f724b02ee](https://github.com/xiaoyiseu/ED-triage/assets/132346882/1ade5a15-69c4-408c-bb94-711301059c5f)
-![ab2cd4852bbd7a414747c33ab0dc31d](https://github.com/xiaoyiseu/ED-triage/assets/132346882/c4ecc5de-40ee-468a-a56c-4a9f429480bc)
+![449619e23943696ad5499755b4d8cab](https://github.com/xiaoyiseu/ED-triage/assets/132346882/c639aa34-1159-4a65-a71d-54d1889a7b70)
+
 
 
