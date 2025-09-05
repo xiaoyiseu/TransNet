@@ -16,8 +16,6 @@ scipy==1.6.2
 tensorflow-gpu==1.15.0       
 pkuseg==0.0.25
 
-
-![022af2c6861a5802f1a843f724b02ee](https://github.com/xiaoyiseu/ED-triage/assets/132346882/1ade5a15-69c4-408c-bb94-711301059c5f)
 ![449619e23943696ad5499755b4d8cab](https://github.com/xiaoyiseu/ED-triage/assets/132346882/c639aa34-1159-4a65-a71d-54d1889a7b70)
 
 
